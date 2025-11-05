@@ -21,6 +21,9 @@ Here’s a **practical, structured list of Python programs**. If you complete th
 12. Check if a number is prime
 13. Generate multiplication table
 14. Count vowels and consonants in a string
+    i. for loop, while loop
+    ii. upper case to lower case
+    iii. count upper case lower case and spaces
 15. Palindrome check (number or string)
 
 ---
